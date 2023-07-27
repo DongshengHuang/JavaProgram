@@ -17,6 +17,5 @@ public class HelloApplication {
         for (String name : names) {
             System.out.println(name);
         }
-
     }
 }
